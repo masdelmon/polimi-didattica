@@ -6,6 +6,7 @@
   "main": "src/App.js",
   "dependencies": {
     "@material-ui/core": "3.9.2",
+    "contentful" : "7.0.2",
     "react": "16.8.0",
     "react-dom": "16.8.0",
     "react-scripts": "2.0.3"
